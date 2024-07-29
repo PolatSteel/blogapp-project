@@ -1,0 +1,67 @@
+/* blog/css/style.css */
+
+.same-size {
+    width: 100%;
+}
+
+.custom-header {
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+/* blog/css/style.css */
+
+/* blog/css/style.css */
+
+body {
+    background: url('../img/basicpp.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+/* blog/css/style.css */
+
+.card {
+    background-color: rgb(231, 231, 231); /* Beyaz arka planın şeffaf hali */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+/* blog/css/style.css */
+
+/* Kategori bağlantıları için stil */
+.list-group-item {
+    background-color:rgb(231, 231, 231); /* Varsayılan arka plan rengi */
+    border: none; /* Kenar çizgilerini kaldırır */
+    color: #000000; /* Varsayılan yazı rengi */
+}
+
+.list-group-item:hover {
+    background-color: #18ffff; /* Hover durumunda arka plan rengi */
+}
+
+.list-group-item.active {
+    background-color: #17f0ff; /* Aktif kategori arka plan rengi */
+    color: rgb(0, 0, 0); /* Aktif kategori yazı rengi */
+}
+.form-label {
+    color: #ffffff; /* Burada istediğiniz renk kodunu kullanabilirsiniz */
+}
+
+/* Form kontrol elemanlarının stilini belirleyin (isteğe bağlı) */
+.form-control {
+    border-color: #ffffff; /* Burada istediğiniz renk kodunu kullanabilirsiniz */
+}
+
+h1 {
+    color: #ffffff; /* Burada istediğiniz renk kodunu kullanabilirsiniz */
+}
