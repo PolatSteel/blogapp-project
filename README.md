@@ -1,0 +1,1 @@
+Hello again everyone, I developed my own blogapp project (of course with a little support), registration and login are actively working, apart from that you can add blogs and categories from django admin.
